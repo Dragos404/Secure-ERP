@@ -1,0 +1,11 @@
+__pycache__
+controller/__pycache__/crm_controller.cpython-39.pyc  
+controller/__pycache__/hr_controller.cpython-39.pyc   
+controller/__pycache__/main_controller.cpython-39.pyc 
+controller/__pycache__/sales_controller.cpython-39.pyc
+model/__pycache__/data_manager.cpython-39.pyc
+model/__pycache__/util.cpython-39.pyc
+model/crm/__pycache__/crm.cpython-39.pyc
+model/hr/__pycache__/hr.cpython-39.pyc
+model/sales/__pycache__/sales.cpython-39.pyc
+view/__pycache__/terminal.cpython-39.pyc
